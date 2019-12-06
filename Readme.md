@@ -1,6 +1,8 @@
 Readme
 ===
 
+
+
 Clone the git repository
 ---
 
@@ -9,6 +11,8 @@ On your command line.
 git clone git@github.com:aaby4373/CS573_HW7_Docker_python.git
 ```
 
+Once done, follow the steps below in order.
+
 Pull the file from dockerhub
 ---
 
@@ -16,7 +20,7 @@ Please run the below command.
 ```
 sudo docker pull abishai777/dockerhub:python2
 ```
-**sudo is optional**
+sudo is optional
 
 Run the cloned file
 ---
