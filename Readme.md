@@ -16,6 +16,8 @@ Once done, follow the steps below in order.
 Build the image
 ---
 
+Go to the folder hw7.
+
 ```
  sudo docker build -t docker/python2 .
 ```
