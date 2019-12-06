@@ -1,6 +1,13 @@
 Readme
 ===
 
+Clone the git repository
+---
+
+On your command line.
+```
+git clone git@github.com:aaby4373/CS573_HW7_Docker_python.git
+```
 
 Pull the file from dockerhub
 ---
