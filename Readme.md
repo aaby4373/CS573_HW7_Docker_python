@@ -22,7 +22,7 @@ Go to the folder hw7.
  sudo docker build -t docker/python2 .
 ```
 
-Run the cloned file
+Run the image
 ---
 
 ```
